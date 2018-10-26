@@ -1,0 +1,7 @@
+https://nvie.com/posts/a-successful-git-branching-model/
+https://github.com/nvie/gitflow
+https://github.com/nvie/gitflow/wiki/Mac-OS-X
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+https://habr.com/post/106912/
+
